@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99f803a3-c6e3-4f49-8752-3a12ab4dd991" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-apps/todo" beforeDir="false" afterPath="$PROJECT_DIR$/react-apps/todo" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +21,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../projects/Kanban" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -33,18 +33,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606252701404</updated>
-      <workItem from="1606252702679" duration="3293000" />
+      <workItem from="1606252702679" duration="4780000" />
     </task>
+    <task id="LOCAL-00001" summary="test updated">
+      <created>1604085984086</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604085984087</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="test updated" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="-1457" y="-39" key="FileChooserDialogImpl" timestamp="1606252914857">
+    <state x="-1457" y="-39" key="FileChooserDialogImpl" timestamp="1604086985547">
       <screen x="-1920" y="-314" width="1920" height="1040" />
     </state>
-    <state x="-1457" y="-39" key="FileChooserDialogImpl/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1606252914857" />
+    <state x="-1457" y="-39" key="FileChooserDialogImpl/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1604086985547" />
     <state x="-1359" y="104" key="Github.ShareDialog" timestamp="1606255905426">
       <screen x="-1920" y="-314" width="1920" height="1040" />
     </state>
@@ -53,5 +65,9 @@
       <screen x="-1920" y="-314" width="1920" height="1040" />
     </state>
     <state x="-1427" y="-89" key="Github.UntrackedFilesDialog/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1606255925826" />
+    <state x="-1645" y="-61" key="Vcs.Push.Dialog.v2" timestamp="1604085986980">
+      <screen x="-1920" y="-314" width="1920" height="1040" />
+    </state>
+    <state x="-1645" y="-61" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1604085986980" />
   </component>
 </project>
