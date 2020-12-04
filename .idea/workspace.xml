@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99f803a3-c6e3-4f49-8752-3a12ab4dd991" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-apps/todo/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/react-apps/todo/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-apps/todo/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-apps/todo/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +72,7 @@
       <updated>1606252701404</updated>
       <workItem from="1606252702679" duration="4780000" />
       <workItem from="1604087134176" duration="160000" />
-      <workItem from="1607115000015" duration="2244000" />
+      <workItem from="1607115000015" duration="8810000" />
     </task>
     <task id="LOCAL-00001" summary="test updated">
       <created>1604085984086</created>
@@ -88,7 +88,63 @@
       <option name="project" value="LOCAL" />
       <updated>1604087232109</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="arrow function example">
+      <created>1606426171382</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606426171383</updated>
+    </task>
+    <task id="LOCAL-00004" summary="arrow function example">
+      <created>1606426264207</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606426264207</updated>
+    </task>
+    <task id="LOCAL-00005" summary="arrow function greet all">
+      <created>1606426991482</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606426991482</updated>
+    </task>
+    <task id="LOCAL-00006" summary="arrow function greet all">
+      <created>1606427030413</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606427030413</updated>
+    </task>
+    <task id="LOCAL-00007" summary="default parameters">
+      <created>1606429600802</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606429600802</updated>
+    </task>
+    <task id="LOCAL-00008" summary="default parameters add annotation">
+      <created>1606775860183</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606775860183</updated>
+    </task>
+    <task id="LOCAL-00009" summary="default parameters add annotation">
+      <created>1606775886200</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606775886200</updated>
+    </task>
+    <task id="LOCAL-00010" summary="//Rest  параметр parameter">
+      <created>1606950537018</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606950537018</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +165,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test updated" />
     <MESSAGE value="add buttons" />
-    <option name="LAST_COMMIT_MESSAGE" value="add buttons" />
+    <MESSAGE value="arrow function example" />
+    <MESSAGE value="arrow function greet all" />
+    <MESSAGE value="default parameters" />
+    <MESSAGE value="default parameters add annotation" />
+    <MESSAGE value="//Rest  параметр parameter" />
+    <option name="LAST_COMMIT_MESSAGE" value="//Rest  параметр parameter" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1457" y="-39" key="FileChooserDialogImpl" timestamp="1606337290323">
@@ -124,25 +185,25 @@
       <screen x="-1920" y="-314" width="1920" height="1040" />
     </state>
     <state x="-1427" y="-89" key="Github.UntrackedFilesDialog/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1606255925826" />
-    <state width="1328" height="279" key="GridCell.Tab.0.bottom" timestamp="1606775550970">
+    <state width="1328" height="279" key="GridCell.Tab.0.bottom" timestamp="1607130763327">
       <screen x="-1920" y="-314" width="1920" height="1040" />
     </state>
-    <state width="1328" height="279" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1606775550970" />
-    <state width="1328" height="279" key="GridCell.Tab.0.center" timestamp="1606775550969">
+    <state width="1328" height="279" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1607130763327" />
+    <state width="1328" height="279" key="GridCell.Tab.0.center" timestamp="1607130763326">
       <screen x="-1920" y="-314" width="1920" height="1040" />
     </state>
-    <state width="1328" height="279" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1606775550969" />
-    <state width="1328" height="279" key="GridCell.Tab.0.left" timestamp="1606775550968">
+    <state width="1328" height="279" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1607130763326" />
+    <state width="1328" height="279" key="GridCell.Tab.0.left" timestamp="1607130763326">
       <screen x="-1920" y="-314" width="1920" height="1040" />
     </state>
-    <state width="1328" height="279" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1606775550968" />
-    <state width="1328" height="279" key="GridCell.Tab.0.right" timestamp="1606775550969">
+    <state width="1328" height="279" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1607130763326" />
+    <state width="1328" height="279" key="GridCell.Tab.0.right" timestamp="1607130763326">
       <screen x="-1920" y="-314" width="1920" height="1040" />
     </state>
-    <state width="1328" height="279" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1606775550969" />
-    <state x="-1645" y="-61" key="Vcs.Push.Dialog.v2" timestamp="1606775890653">
+    <state width="1328" height="279" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1607130763326" />
+    <state x="-1645" y="-61" key="Vcs.Push.Dialog.v2" timestamp="1606950541425">
       <screen x="-1920" y="-314" width="1920" height="1040" />
     </state>
-    <state x="-1645" y="-61" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1606775890653" />
+    <state x="-1645" y="-61" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1606950541425" />
   </component>
 </project>
