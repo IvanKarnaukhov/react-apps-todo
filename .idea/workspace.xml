@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="99f803a3-c6e3-4f49-8752-3a12ab4dd991" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-apps/todo" beforeDir="false" afterPath="$PROJECT_DIR$/react-apps/todo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-apps/todo/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/react-apps/todo/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-apps/todo/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-apps/todo/src/App.js" afterDir="false" />
     </list>
@@ -72,7 +73,7 @@
       <updated>1606252701404</updated>
       <workItem from="1606252702679" duration="4780000" />
       <workItem from="1604087134176" duration="160000" />
-      <workItem from="1607115000015" duration="8810000" />
+      <workItem from="1607115000015" duration="12336000" />
     </task>
     <task id="LOCAL-00001" summary="test updated">
       <created>1604085984086</created>
@@ -144,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606950537018</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary=" // Spread operator">
+      <created>1607046550479</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607046550479</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +178,9 @@
     <MESSAGE value="default parameters" />
     <MESSAGE value="default parameters add annotation" />
     <MESSAGE value="//Rest  параметр parameter" />
-    <option name="LAST_COMMIT_MESSAGE" value="//Rest  параметр parameter" />
+    <MESSAGE value=" // Spread operator" />
+    <MESSAGE value="// Destructuring - Деструкторизация" />
+    <option name="LAST_COMMIT_MESSAGE" value="// Destructuring - Деструкторизация" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1457" y="-39" key="FileChooserDialogImpl" timestamp="1606337290323">
@@ -201,9 +211,9 @@
       <screen x="-1920" y="-314" width="1920" height="1040" />
     </state>
     <state width="1328" height="279" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1607130763326" />
-    <state x="-1645" y="-61" key="Vcs.Push.Dialog.v2" timestamp="1606950541425">
+    <state x="-1645" y="-61" key="Vcs.Push.Dialog.v2" timestamp="1607046556471">
       <screen x="-1920" y="-314" width="1920" height="1040" />
     </state>
-    <state x="-1645" y="-61" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1606950541425" />
+    <state x="-1645" y="-61" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1607046556471" />
   </component>
 </project>
