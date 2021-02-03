@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99f803a3-c6e3-4f49-8752-3a12ab4dd991" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/react-apps/todo/src/Course.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-apps/todo/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/react-apps/todo/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-apps/todo/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-apps/todo/src/App.js" afterDir="false" />
@@ -41,9 +42,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../projects/Kanban" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../projects/cra1/src/App.js" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\webstormProjects\untitled\react-apps\todo\src" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -72,7 +78,9 @@
       <updated>1606252701404</updated>
       <workItem from="1606252702679" duration="4780000" />
       <workItem from="1604087134176" duration="160000" />
-      <workItem from="1607115000015" duration="13966000" />
+      <workItem from="1607115000015" duration="14686000" />
+      <workItem from="1610394264183" duration="703000" />
+      <workItem from="1612217783278" duration="8186000" />
     </task>
     <task id="LOCAL-00001" summary="test updated">
       <created>1604085984086</created>
@@ -165,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607148927572</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="// Destructuring - Деструкторизация rest elements">
+      <created>1607148975863</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1607148975863</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,10 +212,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="// Destructuring - Деструкторизация rest elements" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1457" y="-39" key="FileChooserDialogImpl" timestamp="1606337290323">
-      <screen x="-1920" y="-314" width="1920" height="1040" />
+    <state x="329" y="193" key="FileChooserDialogImpl" timestamp="1612219961446">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-1457" y="-39" key="FileChooserDialogImpl/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1606337290323" />
+    <state x="329" y="193" key="FileChooserDialogImpl/0.0.1366.728/-1920.-314.1920.1040@0.0.1366.728" timestamp="1612219961446" />
     <state x="-1359" y="104" key="Github.ShareDialog" timestamp="1606255905426">
       <screen x="-1920" y="-314" width="1920" height="1040" />
     </state>
@@ -209,26 +225,39 @@
       <screen x="-1920" y="-314" width="1920" height="1040" />
     </state>
     <state x="-1427" y="-89" key="Github.UntrackedFilesDialog/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1606255925826" />
-    <state width="1328" height="279" key="GridCell.Tab.0.bottom" timestamp="1607130763327">
-      <screen x="-1920" y="-314" width="1920" height="1040" />
+    <state width="1345" height="98" key="GridCell.Tab.0.bottom" timestamp="1612226888391">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1328" height="279" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1607130763327" />
-    <state width="1328" height="279" key="GridCell.Tab.0.center" timestamp="1607130763326">
-      <screen x="-1920" y="-314" width="1920" height="1040" />
+    <state width="1345" height="98" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-314.1920.1040@0.0.1366.728" timestamp="1612226888391" />
+    <state width="1328" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607223490966" />
+    <state width="1345" height="98" key="GridCell.Tab.0.center" timestamp="1612226888390">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1328" height="279" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1607130763326" />
-    <state width="1328" height="279" key="GridCell.Tab.0.left" timestamp="1607130763326">
-      <screen x="-1920" y="-314" width="1920" height="1040" />
+    <state width="1345" height="98" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-314.1920.1040@0.0.1366.728" timestamp="1612226888390" />
+    <state width="1328" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607223490966" />
+    <state width="1345" height="98" key="GridCell.Tab.0.left" timestamp="1612226888389">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1328" height="279" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1607130763326" />
-    <state width="1328" height="279" key="GridCell.Tab.0.right" timestamp="1607130763326">
-      <screen x="-1920" y="-314" width="1920" height="1040" />
+    <state width="1345" height="98" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-314.1920.1040@0.0.1366.728" timestamp="1612226888389" />
+    <state width="1328" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607223490965" />
+    <state width="1345" height="98" key="GridCell.Tab.0.right" timestamp="1612226888390">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1328" height="279" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1607130763326" />
-    <state x="-1645" y="-61" key="Vcs.Push.Dialog.v2" timestamp="1607148936895">
-      <screen x="-1920" y="-314" width="1920" height="1040" />
+    <state width="1345" height="98" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-314.1920.1040@0.0.1366.728" timestamp="1612226888390" />
+    <state width="1328" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607223490966" />
+    <state x="517" y="66" key="RollbackChangesDialog" timestamp="1612310638021">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="-1645" y="-61" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1607148936895" />
+    <state x="517" y="66" key="RollbackChangesDialog/0.0.1366.728/-1920.-314.1920.1040@0.0.1366.728" timestamp="1612310638021" />
+    <state x="196" y="177" key="Vcs.Push.Dialog.v2" timestamp="1612315734079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1645" y="-61" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1607148977596" />
+    <state x="196" y="177" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-314.1920.1040@0.0.1366.728" timestamp="1612315734079" />
     <state x="-1573" y="-84" width="672" height="678" key="search.everywhere.popup" timestamp="1607148170143">
       <screen x="-1920" y="-314" width="1920" height="1040" />
     </state>
