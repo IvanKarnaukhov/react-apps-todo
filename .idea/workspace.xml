@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="99f803a3-c6e3-4f49-8752-3a12ab4dd991" name="Default Changelist" comment="// Default parameters">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-apps/todo" beforeDir="false" afterPath="$PROJECT_DIR$/react-apps/todo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-apps/todo/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/react-apps/todo/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-apps/todo/src/Course.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-apps/todo/src/Course.js" afterDir="false" />
     </list>
@@ -81,7 +82,7 @@
       <workItem from="1610394264183" duration="703000" />
       <workItem from="1612217783278" duration="10639000" />
       <workItem from="1612394005180" duration="598000" />
-      <workItem from="1613683128806" duration="6330000" />
+      <workItem from="1613683128806" duration="7652000" />
     </task>
     <task id="LOCAL-00001" summary="test updated">
       <created>1604085984086</created>
@@ -202,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613685809540</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="replacement old code with Destructuring">
+      <created>1613693157455</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1613693157455</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +241,8 @@
     <MESSAGE value="// Destructuring - Деструкторизация rest elements" />
     <MESSAGE value="// Default parameters" />
     <MESSAGE value="replacement old code with Spread operator" />
-    <option name="LAST_COMMIT_MESSAGE" value="replacement old code with Spread operator" />
+    <MESSAGE value="replacement old code with Destructuring" />
+    <option name="LAST_COMMIT_MESSAGE" value="replacement old code with Destructuring" />
   </component>
   <component name="WindowStateProjectService">
     <state x="329" y="193" key="FileChooserDialogImpl" timestamp="1612219961446">
@@ -277,12 +286,12 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="66" key="RollbackChangesDialog/0.0.1366.728/-1920.-314.1920.1040@0.0.1366.728" timestamp="1612310638021" />
-    <state x="1641" y="-65" key="Vcs.Push.Dialog.v2" timestamp="1613685816979">
+    <state x="1641" y="-65" key="Vcs.Push.Dialog.v2" timestamp="1613693160303">
       <screen x="1366" y="-318" width="1920" height="1040" />
     </state>
     <state x="-1645" y="-61" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1607148977596" />
     <state x="196" y="177" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-314.1920.1040@0.0.1366.728" timestamp="1612317292425" />
-    <state x="1641" y="-65" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-318.1920.1040@1366.-318.1920.1040" timestamp="1613685816979" />
+    <state x="1641" y="-65" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-318.1920.1040@1366.-318.1920.1040" timestamp="1613693160303" />
     <state x="-1573" y="-84" width="672" height="678" key="search.everywhere.popup" timestamp="1607148170143">
       <screen x="-1920" y="-314" width="1920" height="1040" />
     </state>
