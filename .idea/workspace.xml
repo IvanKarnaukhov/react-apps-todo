@@ -21,8 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="99f803a3-c6e3-4f49-8752-3a12ab4dd991" name="Default Changelist" comment="// Default parameters">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-apps/todo/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/react-apps/todo/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-apps/todo/src/Course.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-apps/todo/src/Course.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-apps/todo" beforeDir="false" afterPath="$PROJECT_DIR$/react-apps/todo" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +80,8 @@
       <workItem from="1610394264183" duration="703000" />
       <workItem from="1612217783278" duration="10639000" />
       <workItem from="1612394005180" duration="598000" />
-      <workItem from="1613683128806" duration="19329000" />
+      <workItem from="1613683128806" duration="20426000" />
+      <workItem from="1614023045649" duration="323000" />
     </task>
     <task id="LOCAL-00001" summary="test updated">
       <created>1604085984086</created>
@@ -244,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613584158069</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="replacement old code with Classes&#10;constructor() super ()">
+      <created>1613799762568</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1613799762568</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,7 +288,8 @@
     <MESSAGE value="replacement old code with Objects" />
     <MESSAGE value="replacement old code with Objects correct" />
     <MESSAGE value="replacement old code with Spread operator for Objects correct" />
-    <option name="LAST_COMMIT_MESSAGE" value="replacement old code with Spread operator for Objects correct" />
+    <MESSAGE value="replacement old code with Classes&#10;constructor() super ()" />
+    <option name="LAST_COMMIT_MESSAGE" value="replacement old code with Classes&#10;constructor() super ()" />
   </component>
   <component name="WindowStateProjectService">
     <state x="329" y="193" key="FileChooserDialogImpl" timestamp="1612219961446">
@@ -329,12 +337,12 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="66" key="RollbackChangesDialog/0.0.1366.728/-1920.-314.1920.1040@0.0.1366.728" timestamp="1612310638021" />
-    <state x="1641" y="-65" key="Vcs.Push.Dialog.v2" timestamp="1613584162658">
+    <state x="1641" y="-65" key="Vcs.Push.Dialog.v2" timestamp="1613799765956">
       <screen x="1366" y="-318" width="1920" height="1040" />
     </state>
     <state x="-1645" y="-61" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-314.1920.1040@-1920.-314.1920.1040" timestamp="1607148977596" />
     <state x="196" y="177" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-314.1920.1040@0.0.1366.728" timestamp="1612317292425" />
-    <state x="1641" y="-65" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-318.1920.1040@1366.-318.1920.1040" timestamp="1613584162658" />
+    <state x="1641" y="-65" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-318.1920.1040@1366.-318.1920.1040" timestamp="1613799765956" />
     <state x="-1573" y="-84" width="672" height="678" key="search.everywhere.popup" timestamp="1607148170143">
       <screen x="-1920" y="-314" width="1920" height="1040" />
     </state>
